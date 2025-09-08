@@ -1,29 +1,29 @@
 ## Welcome to my Github Page! 👋
 
-Coshaman, also known as 집돌이 페렐만 is...
--Frontend Developer
--R&D Manager
--Marketing Manager
+Coshaman, also known as 집돌이 페렐만 is...  
+-Frontend Developer  
+-R&D Manager  
+-Marketing Manager  
 
--Now studying in SNU CSE
--Now in SCSC
+-Now studying in SNU CSE  
+-Now in SCSC  
 
--2025 K-HTML Hackathon Winner(Prize 2,000,000 won)
--2021 Korea Code Fair Winner(Minister's Award)
--2019 Korea Code Fair 3rd Prize
--2019 전국 청소년 과학 탐구 대회 과학 컴퓨팅 부문 대상(과학창의재단 이사장상)
+-2025 K-HTML Hackathon Winner(Prize 2,000,000 won)  
+-2021 Korea Code Fair Winner(Minister's Award)  
+-2019 Korea Code Fair 3rd Prize  
+-2019 전국 청소년 과학 탐구 대회 과학 컴퓨팅 부문 대상(과학창의재단 이사장상)  
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coshaman&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coshaman&show_icons=true&theme=radical)  
 
-- 🔭 I’m currently working on ...
-TTuns Project
+- 🔭 I’m currently working on ...  
+TTuns Project  
 
-- 🌱 I’m currently learning ...
-NLP, BE, Design
-Descrete math
+- 🌱 I’m currently learning ...  
+NLP, BE, Design  
+Descrete math  
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...  
 
-Please join my TTuns Project!
-We're looking for BE, Designer, Swift Developer
+Please join my TTuns Project!  
+We're looking for BE, Designer, Swift Developer  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmcha72@gmail.com)](mailto:kmcha72@gmail.com)
