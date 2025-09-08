@@ -26,4 +26,4 @@ Descrete math
 
 Please join my TTuns Project!
 We're looking for BE, Designer, Swift Developer
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmcha72@gmail.com)](kmcha72@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmcha72@gmail.com)](mailto:kmcha72@gmail.com)
