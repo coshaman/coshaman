@@ -13,7 +13,7 @@ Coshaman, also known as 집돌이 페렐만 is...
 -2019 Korea Code Fair 3rd Prize  
 -2019 전국 청소년 과학 탐구 대회 과학 컴퓨팅 부문 대상(과학창의재단 이사장상)  
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coshaman&show_icons=true&theme=radical)  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coshaman&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)  
 
 - 🔭 I’m currently working on ...  
 TTuns Project  
