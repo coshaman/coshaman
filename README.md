@@ -26,4 +26,11 @@ Descrete math
 
 Please join my TTuns Project!  
 We're looking for BE, Designer, Swift Developer  
+
+
+Feel free to contact me!
+Discord : coshaman
+Kakaotalk : coshaman
+Instagram : @coshaman22
+LinkedIn : [박성현](https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EB%B0%95-a5437b191/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmcha72@gmail.com)](mailto:kmcha72@gmail.com)
